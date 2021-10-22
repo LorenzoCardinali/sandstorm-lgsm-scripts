@@ -53,4 +53,4 @@ dkms.conf
 
 # Ignore files
 inssserver
-basic.cfg
+dglconfig.cfg

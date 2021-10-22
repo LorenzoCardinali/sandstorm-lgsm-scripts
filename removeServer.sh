@@ -6,7 +6,7 @@
  ######  ###  ##  ##   ## ######  ###  ##       
 
 # Set the server name in here
-servername="RU"
+servername=""
 
 ### DON'T MODIFY THE REST ###
 
