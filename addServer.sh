@@ -35,7 +35,7 @@ fi
 # ports calc
 port=$((27102 + $servernumber - 1))
 queryport=$((27131 + $servernumber - 1))
-rconport=$((27064 + $servernumber - 1))
+rconport=$((27015 + $servernumber - 1))
 
 # make directory
 filename=$servername$servernumber
